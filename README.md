@@ -1,4 +1,3 @@
-# MockPayment
 
 A small Android app.
 You enter an amount, choose a currency and installments, and get a receipt.
