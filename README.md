@@ -57,11 +57,6 @@ Bonus - Exchange rates:
 - Loading, error and Retry.
 - Going back keeps the receipt data.
 
-Bonus - Design:
-- Same spacing on all screens, light and dark mode.
-- Clear error messages.
-- Help for screen readers (TalkBack).
-
 ## Architecture decision
 
 The task asked that the settings stay after Finish, and that the form is cleaned.
