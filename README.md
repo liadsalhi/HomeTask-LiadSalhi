@@ -62,12 +62,6 @@ Bonus - Design:
 - Clear error messages.
 - Help for screen readers (TalkBack).
 
-## What is left
-
-- Add tests.
-- Move all texts to `strings.xml`.
-- Keep the form also if Android closes the app in the background.
-
 ## Architecture decision
 
 The task asked that the settings stay after Finish, and that the form is cleaned.
